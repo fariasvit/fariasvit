@@ -2,7 +2,7 @@
 Electrical engineering student<br/><br/>
 Experience in data engineering, indicator management and creation of relational models using Power BI<br/>
 Experience in operation and maintenance in the area of ​​renewable energy<br/><br/>
-Maintenence Intern at Continental<br/>
+Maintenence Intern at Continental<br/><br/>
 Member of IEEE PES CIMATEC<br/>
 
 ## Skills
